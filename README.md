@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/c4452402-216a-467a-8887-2dc046699e70)
-Objective:
+
+## Objective:
 This project aims to develop a solution for a hypothetical business challenge. It is a guided project in which I have analyzed Monday Coffee's sales data to identify the top three cities in India for opening new coffee shop locations, focusing on consumer demand and sales performance.
 # Below are the Conclusions
 
